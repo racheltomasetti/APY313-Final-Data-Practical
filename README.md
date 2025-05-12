@@ -1,6 +1,6 @@
 # APY313 Data Practical Final: Exploring Menstrual Cycle and Movement Patterns
 
-view the final report here: (https://racheltomasetti.github.io/cycle-movement-analysis/)
+view the final report here: **https://racheltomasetti.github.io/cycle-movement-analysis/**
 ## 🧠 Project Overview
 
 This project investigates the relationship between menstrual cycle phases and movement behaviors through a deeply personal and exploratory lens. Using self-tracked Strava activity data and manually recorded menstrual cycle dates, the study maps physical activity across hormonal phases to uncover potential behavioral patterns linked to internal physiological states.
